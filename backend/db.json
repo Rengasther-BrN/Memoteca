@@ -4,43 +4,50 @@
       "id": 3,
       "conteudo": "Angular é o melhor'",
       "autoria": "Dev Alura",
-      "modelo": "modelo3"
+      "modelo": "modelo3",
+      "favorito": true
     },
     {
       "id": 4,
       "conteudo": "Angular 14'",
       "autoria": "Dev Alura",
-      "modelo": "modelo2"
+      "modelo": "modelo2",
+      "favorito": false
     },
     {
       "conteudo": "teste",
       "autoria": "teste",
-      "modelo": "",
-      "id": 5
+      "modelo": "modelo2",
+      "id": 5,
+      "favorito": false
     },
     {
       "conteudo": "gdsgdsf",
       "autoria": "gdsfgdsf",
       "modelo": "modelo1",
-      "id": 6
+      "id": 6,
+      "favorito": false
     },
     {
       "conteudo": "                 ",
       "autoria": "a",
       "modelo": "modelo1",
-      "id": 7
+      "id": 7,
+      "favorito": true
     },
     {
       "conteudo": "dffsdaffsda",
       "autoria": "fsadfsadfsad",
       "modelo": "modelo1",
-      "id": 8
+      "id": 8,
+      "favorito": false
     },
     {
       "conteudo": "hgjghjghjghjghjgh",
       "autoria": "jghjghjghjghjghj",
       "modelo": "modelo2",
-      "id": 9
+      "id": 9,
+      "favorito": false
     }
   ]
 }
